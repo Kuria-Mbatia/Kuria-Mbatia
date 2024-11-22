@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>
 
   <samp>
-Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring any thing related to low level HPC, chip design using Verilog/VHDL, and anything related to the venture capital space (funding side)
+Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring anything related to low level HPC, chip design using Verilog/VHDL, and the venture capital space (funding side)
 </samp>
 </p>
 
