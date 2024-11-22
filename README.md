@@ -22,10 +22,10 @@ Hello, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://ww
 </samp>
 </p>
 
-<p>
 Other stuff I find cool 👀
+<p>
 '''
-<a href="https://www.dwarkeshpatel.com/"> Dwarkesh Patel Podcast
+<a href="https://www.dwarkeshpatel.com/">
   <img align="left" alt="Kuria-MBA_X" width="21px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90fa9666-5b8b-4685-a8fb-4b64cb7e0333_1080x1080.png" />
 </a>
 '''
