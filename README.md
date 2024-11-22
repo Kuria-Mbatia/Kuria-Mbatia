@@ -18,18 +18,23 @@ Here are some ideas to get you started:
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-Hello, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring any thing related to low level HPC, chip design using Verilog/VHDL, and anything related to the venture capital space (funding side)
+Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring any thing related to low level HPC, chip design using Verilog/VHDL, and anything related to the venture capital space (funding side)
 </samp>
 </p>
 
 Other stuff I find cool 👀
-<p>
-'''
+
 <a href="https://www.dwarkeshpatel.com/">
-  <img align="left" alt="Kuria-MBA_X" width="21px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90fa9666-5b8b-4685-a8fb-4b64cb7e0333_1080x1080.png" />
+  <img align="left" alt="Dwarkesh_Patel" width="21px" src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90fa9666-5b8b-4685-a8fb-4b64cb7e0333_1080x1080.png" />
 </a>
-'''
-</p>
+<a href="https://www.founderspodcast.com/">
+  <img align="left" alt="FDP" width="21px" src="https://image.simplecastcdn.com/images/57933a1d-c5a9-4040-9aca-e766ae2ec0eb/721c2dd0-f766-4405-a701-dcd9179d4a5b/300x300/1495013501artwork.jpg" />
+</a>
+<a href="https://signalsandthreads.com/">
+  <img align="left" alt="Kuria-MBA_X" width="21px" src="https://signalsandthreads.com/static/images/header-mobile.jpg" />
+</a>
+<br/>
+
 
 
 ### Connect with me 🤝
