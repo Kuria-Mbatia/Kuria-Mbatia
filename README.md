@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br> -->
+
   <samp>
 Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring any thing related to low level HPC, chip design using Verilog/VHDL, and anything related to the venture capital space (funding side)
 </samp>
@@ -35,8 +34,6 @@ Other stuff I find cool 👀
 </a>
 <br/>
 
-
-
 ### Connect with me 🤝
 <a href="https://x.com/Kuria_MBA">
   <img align="left" alt="Kuria-MBA_X" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/x.svg" />
@@ -48,6 +45,8 @@ Other stuff I find cool 👀
   <img align="left" alt="Kuria-MBA_LC" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg" />
 </a>
 <br/><br/>
+
+🤔 I’m currently looking for an internship, any help is appreciated if you've made it this far! ...
 <p align="center">
 
 </p>
