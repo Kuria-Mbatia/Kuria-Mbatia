@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Connect with me :handshake:
-<a href="[https://twitter.com/cs_vedant](https://x.com/Kuria_MBA)">
-  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://camo.githubusercontent.com/908ec6a7e86452d597267e3926532e51b546cd071c8a537a5a51f9cfd5ccb002/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f782e737667" />
+<a href="https://x.com/Kuria_MBA">
+  <img align="left" alt="Kuria-MBA_X" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/x.svg" />
 </a>
 
 <br/><br/>
