@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>
 
   <samp>
-Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring anything related to low level HPC, chip design using Verilog/VHDL, and the venture capital space (funding side)
+Hello👋, I'm Kuria, I'm a computer 💻 engineering student at <a href="https://www.eecs.psu.edu/">Penn State </a>. I really like learning and exploring anything related to low level HPC, chip design using Verilog/VHDL, and the venture capital space (funding side) 
 </samp>
 </p>
 
@@ -50,5 +50,14 @@ Other stuff I find cool 👀
 <p align="center">
 
 </p>
-<br/><br/>
 
+### Some other cool stuff that I'm a part of 🙌
+
+<a href="https://www.linkedin.com/company/happyvalleyvc/posts/?feedView=all"> Chief Investment Officer @ Happy Valley Venture Capital
+  <img align="left" alt="HVVC" width="21px" src="https://happyvalley.vc/images/logo.png" />
+</a>
+<br/><br/>
+<a href="https://www.linkedin.com/company/nittanyentrepreneursociety/posts/?feedView=all"> Director of Outreach @ NES
+  <img align="left" alt="HVVC" width="21px" src="https://www.nespsu.com/NES.svg" />
+</a>
+<br/><br/>
