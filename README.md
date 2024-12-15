@@ -60,4 +60,5 @@ Other stuff I find cool 👀
 <a href="https://www.linkedin.com/company/nittanyentrepreneursociety/posts/?feedView=all"> Director of Outreach @ NES
   <img align="left" alt="HVVC" width="21px" src="https://www.nespsu.com/NES.svg" />
 </a>
+<p> If you have open student entreprenurial intiatives that you'de like for students to get involved with, feel free to reach out to me via any of the social platforms listed above!</p>
 <br/><br/>
