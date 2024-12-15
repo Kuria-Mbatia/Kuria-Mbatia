@@ -53,7 +53,7 @@ Other stuff I find cool 👀
 
 ### Some other cool stuff that I'm a part of 🙌
 
-<a href="https://www.linkedin.com/company/happyvalleyvc/posts/?feedView=all"> Chief Investment Officer @ Happy Valley Venture Capital
+<a href="https://www.linkedin.com/company/happyvalleyvc/posts/?feedView=all"> President @ Happy Valley Venture Capital
   <img align="left" alt="HVVC" width="21px" src="https://happyvalley.vc/images/logo.png" />
 </a>
 <br/><br/>
