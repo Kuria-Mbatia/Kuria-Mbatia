@@ -53,7 +53,7 @@ Other stuff I find cool 👀
 
 ### Some other cool stuff that I'm a part of 🙌
 
-<a href="https://www.linkedin.com/company/happyvalleyvc/posts/?feedView=all"> President @ Happy Valley Venture Capital
+<a href="https://www.linkedin.com/company/happyvalleyvc/posts/?feedView=all"> 2024-2025 VC Operations MD @ Happy Valley Venture Capital Club
   <img align="left" alt="HVVC" width="21px" src="https://happyvalley.vc/images/logo.png" />
 </a>
 <br/><br/>
