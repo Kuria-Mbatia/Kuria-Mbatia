@@ -1,6 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00A9E0&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Kuria+Mbatia!+👋;Computer+Engineering+Student+💻;Aspiring+Low-Level+HPC+Innovator;Exploring+Chip+Design+%26+VC+🚀" alt="Typing SVG" /></a>
-</div>
+<h1 align="center">
+  <strong>Kuria Mbatia</strong>
+</h1>
 
 <p align="center">
   <samp>
