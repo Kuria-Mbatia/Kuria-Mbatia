@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hello! I'm a passionate Computer Engineering student at <a href="https://www.eecs.psu.edu/">Penn State University</a> (Class of May 2026) with a minor in Mathematics. I'm deeply fascinated by the intricacies of <strong>low-level High-Performance Computing (HPC)</strong>, innovative <strong>chip design using Verilog/VHDL</strong>, and the dynamic <strong>venture capital</strong> landscape. I'm currently seeking impactful internship opportunities where I can contribute and grow!
+    Hello! I'm a passionate Computer Engineering student at <a href="https://www.eecs.psu.edu/">Penn State University</a> (Class of May 2026). I'm deeply fascinated by the intricacies of <strong>low-level High-Performance Computing (HPC)</strong>, innovative <strong>chip design using Verilog/VHDL</strong>, and the dynamic <strong>venture capital</strong> landscape. I'm currently seeking impactful internship opportunities where I can contribute and grow!
   </samp>
 </p>
 
