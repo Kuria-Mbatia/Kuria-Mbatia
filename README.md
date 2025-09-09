@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hello! I'm a passionate Computer Engineering student at <a href="https://www.eecs.psu.edu/">Penn State University</a> (Class of May 2026). I'm deeply fascinated by the intricacies of <strong>low-level High-Performance Computing (HPC)</strong>, innovative <strong>chip design using Verilog/VHDL</strong>, and the dynamic <strong>venture capital</strong> landscape. I'm currently seeking impactful internship opportunities where I can contribute and grow!
+    👋🏿, I'm Kuria a Computer Engineering student at <a href="https://www.eecs.psu.edu/">Penn State University</a>. I'm deeply fascinated by the intricacies of <strong>low-level High-Performance Computing (HPC)</strong>, innovative <strong>chip design using Verilog/VHDL</strong>, and the dynamic <strong>venture capital</strong> landscape. I'm currently seeking impactful internship opportunities where I can contribute and grow!
   </samp>
 </p>
 
@@ -15,10 +15,7 @@
 ---
 
 ### 🚀 What I'm Currently Up To
-
-* 🔭 Building **notioc** ([notioc.com](https://notioc.com)): Developing and deploying cutting-edge agentic workflows for learning management systems.
-* 🌱 Diving deep into my coursework: Data Structures & Algorithms, Computer System Architecture, Operating Systems, and more!
-* 💡 Actively seeking Summer 2025/Fall 2025 internship roles in Computer Engineering, Software Development, or related fields.
+*Mainly Open source FPGA & Computer hardware engineering :) 
 
 ---
 
