@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    👋🏿, I'm Kuria a Computer Engineering student at <a href="https://www.eecs.psu.edu/">Penn State University</a>. I'm deeply fascinated by the intricacies of <strong>low-level High-Performance Computing (HPC)</strong>, innovative <strong>chip design using Verilog/VHDL</strong>, and the dynamic <strong>venture capital</strong> landscape.
+    uhhhh I do stuff sometimes
   </samp>
 </p>
 
